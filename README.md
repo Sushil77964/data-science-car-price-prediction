@@ -18,6 +18,21 @@ This project predicts the selling price of used cars using Machine Learning tech
 - Scikit-learn
 - Jupyter Notebook
 
+## 📷 Screenshots
+
+### 🏠 Home
+![Home](screenshots/home.png)
+
+### 📊 Prediction
+![Prediction](screenshots/prediction.png)
+
+### 📈 Feature Importance
+![Feature Importance](screenshots/feature_importance.png)
+
+### ⚖️ Model Comparison
+![Model Comparison](screenshots/model_comparison.png)
+
+
 ## 📅 Project Status
 
 🚧 Day 1 - Project Setup
